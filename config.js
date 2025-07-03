@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTM5MDA1MDU5NDY1NTQ0MTA2Ng.GNq9eU.TaDsSt1UyGhJ34LcOXcoWFDQ_5-r9n2YgxtyO8",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "",
@@ -10,9 +10,9 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "Głupoty Frvnka", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/hNZgztrUhn",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
